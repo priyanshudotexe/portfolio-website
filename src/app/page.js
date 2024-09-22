@@ -54,15 +54,15 @@ export default function Home() {
                 className="rounded-full border-4 border-orange-500 shadow-lg"
               />
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
-                Hi, I'm Priyanshu Choubey!
+                Hi, I&apos;m Priyanshu Choubey!
               </h1>
               <p className="max-w-3xl text-xl text-gray-300 leading-relaxed">
                 A pre-final year Computer Science student at BITS Pilani, Goa.
-                I've gained experience in web scraping, frontend development,
+                I&apos;ve gained experience in web scraping, frontend development,
                 and algorithm design during my internship at Nawgati, where I
-                worked on real-time EV charging solutions. I've also researched
+                worked on real-time EV charging solutions. I&apos;ve also researched
                 automated code evaluation methods as an Undergraduate
-                Researcher. I'm proficient in React, Next.js, Python, and more.
+                Researcher. I&apos;m proficient in React, Next.js, Python, and more.
                 In my free time, I love to DJ and explore philosophy, constantly
                 seeking new ways to blend creativity and logic.
               </p>
