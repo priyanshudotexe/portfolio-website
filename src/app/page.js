@@ -1,14 +1,9 @@
 import React from "react";
 //import { landing } from "@/components/landing";
 import Link from "next/link";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Label } from "@/components/ui/label";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { Button } from "@/components/ui/button";
 import { TechStackRibbon } from "@/components/tech-stack-ribbon";
 import Image from "next/image";
-import { Portfolio } from "@/components/portfolio";
+//import { Portfolio } from "@/components/portfolio";
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-black text-white">
